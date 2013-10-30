@@ -1,0 +1,7 @@
+{
+    "response": "ok",
+    "user": {
+        "id": "35aa8a68-81fa-4734-ac38-3ae1ed017c01",
+        "email": "jane.smith@example.com"
+    }
+}
